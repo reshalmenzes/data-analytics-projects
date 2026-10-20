@@ -13,4 +13,4 @@
 - Data Scientists have the highest average salary among job titles.
 - Happiness with work-life balance (5.74/10) is higher than with salary (4.27/10).
 
-![Dashboard](dashboard.png)
+![Dashboard](../dashboard.png)
