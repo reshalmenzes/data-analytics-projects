@@ -14,4 +14,4 @@
 - Middle-aged customers (31-55) are the largest group, at 331 customers.
 - Commute distance has a mixed effect: buyers lead at 0-1 miles, but non-buyers lead at 1-2 and 5-10 miles.
 
-![Dashboard](dashboard.png)
+![Dashboard](../dashboard.png)
